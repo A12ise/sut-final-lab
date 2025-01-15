@@ -1,4 +1,4 @@
-package uint
+package unit
 
 import (
 	"testing"
